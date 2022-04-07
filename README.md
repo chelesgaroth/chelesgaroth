@@ -4,12 +4,12 @@
 
 📍  I'm from Braga, Portugal 
 
-💻 I'm a Software Engineering Master's student at the University of Minho
+👩‍💻 I'm a Software Engineering Master's student at the University of Minho
 
 📖 Currently I'm studying Applications Engineering and Intelligent Systems
 
 
-## More about me
+## More about me ❄️
 
 🎞️ Movie fanatic 
 
@@ -22,6 +22,8 @@
 ## Find me 🌎
 
 💼 <a href="https://www.linkedin.com/in/raquel-costa00/">LinkedIn</a> 
+
+## Stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
 <!--

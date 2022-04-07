@@ -19,10 +19,6 @@
 
 📚 I absolutely love to read and I love comic books (especially DC) 
 
-## Find me
-
-💼 <a href="https://www.linkedin.com/in/raquel-costa00/">LinkedIn</a> 
-
 ## Stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)

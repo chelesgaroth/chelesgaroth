@@ -27,7 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chelesgaroth&left_color=green&right_color=red)
+![views](https://komarev.com/ghpvc/?username=your-github-username)
   
   
 <!--

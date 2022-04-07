@@ -27,11 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
 
-<p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
-    </a>
-  </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chelesgaroth&left_color=green&right_color=red)
   
   
 <!--

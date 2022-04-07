@@ -9,7 +9,7 @@
 📖 Currently I'm studying Applications Engineering and Intelligent Systems
 
 
-## More about me ❄️
+## More about me 
 
 🎞️ Movie fanatic 
 
@@ -19,13 +19,21 @@
 
 📚 I absolutely love to read and I love comic books (especially DC) 
 
-## Find me 🌎
+## Find me
 
 💼 <a href="https://www.linkedin.com/in/raquel-costa00/">LinkedIn</a> 
 
-## Stats 📊
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
+
+<p align="center">
+    <a href="https://visitor-badge.glitch.me/">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
+    </a>
+  </p>
+  
+  
 <!--
 **chelesgaroth/chelesgaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

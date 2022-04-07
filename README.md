@@ -23,7 +23,7 @@
 
 💼 <a href="https://www.linkedin.com/in/raquel-costa00/">LinkedIn</a> 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
 <!--
 **chelesgaroth/chelesgaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

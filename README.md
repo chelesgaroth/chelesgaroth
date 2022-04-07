@@ -17,6 +17,11 @@
 
 📚 I absolutely love to read and I love comic books (especially DC) 
 
+## My University Projects
+
+- [Licentiate Degree](https://github.com/chelesgaroth/LEI-UMinho)
+- [Master's Degree](https://github.com/chelesgaroth/MEI-Uminho)
+
 ## Stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)

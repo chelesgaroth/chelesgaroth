@@ -1,4 +1,4 @@
-### Hi, I'm Raquel 👋✨
+## Hi, I'm Raquel 👋✨
 
 ![alt text](https://github.com/chelesgaroth/chelesgaroth/blob/main/Drawing%20(1).png)
 

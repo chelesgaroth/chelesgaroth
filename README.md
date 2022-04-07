@@ -1,6 +1,6 @@
 ## Hi, I'm Raquel 👋✨
 
-![alt text](https://github.com/chelesgaroth/chelesgaroth/blob/main/Drawing%20(1).png)
+![alt text](https://github.com/chelesgaroth/chelesgaroth/blob/main/RAQUEL_COSTA.png)
 
 👩‍💻 I'm a Software Engineering Master's student at the University of Minho
 

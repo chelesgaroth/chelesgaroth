@@ -2,9 +2,12 @@
 
 ![alt text](https://github.com/chelesgaroth/chelesgaroth/blob/main/Drawing%20(1).png)
 
-📍  I'm from Braga, Portugal
+📍  I'm from Braga, Portugal 
+
 💻 I'm a Software Engineering Master's student at the University of Minho
+
 📖 Currently I'm studying Applications Engineering and Intelligent Systems
+
 
 ## More about me
 

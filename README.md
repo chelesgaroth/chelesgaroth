@@ -12,8 +12,11 @@
 ## More about me
 
 🎞️ Movie fanatic 
+
 🎵 Music lover
+
 🎨 I love paiting
+
 📚 I absolutely love to read and I love comic books (especially DC) 
 
 ## Find me 🌎

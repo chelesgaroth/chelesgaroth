@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhaan&layout=compact)
 
-![views](https://komarev.com/ghpvc/?username=your-github-username)
+![views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
   
   
 <!--

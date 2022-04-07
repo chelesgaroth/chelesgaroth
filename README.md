@@ -1,6 +1,6 @@
 ### ✨ Hi, I'm Raquel ✨
 
-![alt text](https://github.com/chelesgaroth/chelesgaroth/blob/main/Drawing.sketchpad.png)
+![alt text](https://github.com/chelesgaroth/chelesgaroth/blob/main/Drawing2.png)
 <!--
 **chelesgaroth/chelesgaroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

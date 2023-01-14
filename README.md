@@ -24,7 +24,7 @@
 
 ## Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelesgaroth&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelesgaroth&layout=compact)-->
 
 ![views](https://komarev.com/ghpvc/?username=chelesgaroth&color=blueviolet)
   
